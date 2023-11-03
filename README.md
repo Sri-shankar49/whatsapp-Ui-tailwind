@@ -4,7 +4,7 @@ Recreating WhatsApp's sleek interface using the power and flexibility of Tailwin
 
 ### Live Link: 
 
-https://whatsapp-ui-clone-tailwindcss.vercel.app/
+https://sri-shankar49.github.io/whatsapp-Ui-tailwind/
 
 ## Technologies Used
 
